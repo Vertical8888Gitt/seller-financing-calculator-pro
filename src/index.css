@@ -1,1 +1,7 @@
-@tailwind base;\n@tailwind components;\n@tailwind utilities;\nhtml,body,#root{height:100%}\n
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { 
+  height: 100%;
+}
